@@ -47,6 +47,7 @@ RegistryURI=hub.c.163.com
 docker pull federatedai/eggroll:<version>-release
 docker pull federatedai/fateboard:<version>-release
 docker pull federatedai/python:<version>-release
+docker pull federatedai/client:<version>-release
 docker pull federatedai/serving-server:<version>-release
 docker pull federatedai/serving-proxy:<version>-release
 docker pull federatedai/serving-admin:<version>-release
